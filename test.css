@@ -1,0 +1,17 @@
+			body {
+			  background-color: lightblue;
+			}
+
+			#first {
+				margin: 100px;
+				border: 1px solid #000000;
+				border-radius: 5px;
+				padding: 20px;
+			}
+
+			.second {
+				margin: 200px;
+				border: 1px solid #F00000;
+				border-radius: 50px;
+				padding: 10px;
+			}
